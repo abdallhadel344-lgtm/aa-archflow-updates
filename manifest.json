@@ -1,9 +1,8 @@
 
 {
-  "app_name": "A.A ARCHFLOW",
-  "version": "0.6.25",
-  "release_url": "https://github.com/abdallhadel344-lgtm/aa-archflow-updates/releases",
-  "download_url": "https://github.com/abdallhadel344-lgtm/aa-archflow-updates/releases/download/v0.6.25/A.A.ARCHFLOW.exe",
-  "sha256": "d34c6c11e01e1702e172efff42554dea7c25f98c3ee9fe5d8c81e686b7fd3aae",
-  "release_notes": "A.A ARCHFLOW update"
+  "version": "0.6.26",
+  "download_url": "https://github.com/abdallhadel344-lgtm/aa-archflow-updates/releases/download/v0.6.26/A.A.ARCHFLOW.exe",
+  "sha256": "eb6c098431a8056ed48f7004cb800926b622691657349c67e0605fffcc1530be",
+  "release_notes": "A.A ARCHFLOW v0.6.26 updater verification release.",
+  "minimum_version": "0.6.25"
 }
